@@ -11,7 +11,7 @@ A simple & Fastest Telegram userbot based on Telethon .
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/THE-ROYALSBOT/ROYAL-USERBOT?&style=flat-square&logo=github)](https://github.com/THE-ROYALSBOT/ROYAL-USERBOT/pulls?q=is:closed)
 [![GitHub contributors](https://img.shields.io/github/contributors/THE-ROYALSBOT/ROYAL-USERBOT?&style=flat-square&logo=github)](https://GitHub.com/THE-ROYALSBOT/ROYAL-USERBOT/graphs/contributors/)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/THE-ROYALSBOT/ROYAL-USERBOT?&style=flat-square&logo=github)](https://github.com/THE-ROYALSBOT/ROYAL-USERBOT/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/THE-ROYALSBOT/ROYAL-USERBOT?&style=flat-square&logo=github)](https://github.com/THE-ROYALSBOT/ROYAL-USERBOT/fork)
+[![GitHub forks](https://img.shields.io/github/forks/THE-ROYALSBOT/ROYAL-USERBOT?&style=flat-square&logo=github)](https://github.com/Legend-paradox/ROYAL-USERBOT/fork)
 [![GitHub stars](https://img.shields.io/github/stars/THE-ROYALSBOT/ROYAL-USERBOT?&style=flat-square&logo=github)](https://github.com/THE-ROYALSBOT/ROYAL-USERBOT/stargazers)
 
 
